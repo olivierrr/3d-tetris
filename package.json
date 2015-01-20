@@ -23,16 +23,14 @@
   },
   "homepage": "https://github.com/olivierrr/3d-tetris",
   "dependencies": {
-    "a-cube": "^1.0.0",
+    "a-cube": "^1.0.1",
     "beefy": "^2.1.1",
     "browserify": "^6.2.0",
     "canvas-fit": "^1.2.0",
     "canvas-orbit-camera": "^1.0.0",
-    "gl-context": "^0.1.1",
     "gl-geometry": "^1.0.0",
     "gl-mat4": "^1.0.0",
     "glslify": "^1.6.0",
-    "normals": "^0.1.0",
     "raf": "^2.0.4"
   }
 }

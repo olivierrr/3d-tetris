@@ -18,9 +18,10 @@ var COLOR = {
   , green: [0.0, 1.0, 0.0]
   , black: [1.0, 1.0, 1.0]
 }
+
 var state = [
-  [COLOR.red, 0, 0, 0, 0],
-  [0, 0, 0, 0, 0],
+  [COLOR.red, COLOR.blue, 0, 0, 0],
+  [COLOR.blue, COLOR.green, 0, 0, 0],
   [COLOR.green, COLOR.green, 0, 0, 0],
   [COLOR.green, COLOR.green, 0, 0, COLOR.blue]
 ]
